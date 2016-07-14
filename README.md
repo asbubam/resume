@@ -1,7 +1,7 @@
 ## Seungwoo Lee
 > <img src="https://avatars3.githubusercontent.com/u/1094945" width="300px">  
 Hello. My name is Seungwoo Lee and I am a Software engineer.  
-I'm making **Crowdsourcing Translation Platform Service** at [**Flitto**](https://www.flitto.com) using Node.js now.
+I'm making **Crowdsourcing Translation Platform Service** at [**Flitto**](https://www.flitto.com) using Node.js.
 
 ## contact
 > [asbubam@gmail.com](asbubam@gmail.com)  
@@ -10,15 +10,15 @@ https://www.facebook.com/asbubam
 
 ## I love Node.js Programming.
 > *Speaker about "Node.js programming"*  
-> @[**playnode 2015**](http://playnode.io)  
-> @[**W3C HTML5 Conference 2015**](http://onoffmix.com/event/58200)  
+> @ [**playnode 2015**](http://playnode.io)  
+> @ [**W3C HTML5 Conference 2015**](http://onoffmix.com/event/58200)  
 
 > [<img src="img/playnode_cover.png" width="400px">](http://www.slideshare.net/SeungWooLee2/nodejs-in-flitto)
 
 ## Experience
 ##### Flitto (May 2013 – Present)
 > Develop [Flitto](https://www.flitto.com) Web, API Server  
-Develop B2B Mass translation service  
+Develop B2B Mass Translation Service  
 *AWS, Node.js, PostgreSQL, Redis, MongoDB, RabbitMQ, Nginx*  
 
 ##### News1 (May 2012 – May 2013 ) 
@@ -133,6 +133,3 @@ I truly think Seungwoo would be a strong asset for every company he work for.
 > *Do you want work with me?*  
 [<img src="img/want_you.png" width="400px">](http://www.slideshare.net/SeungWooLee2/wantyou)
 
-## contact
-> [asbubam@gmail.com](asbubam@gmail.com)  
-https://www.facebook.com/asbubam
