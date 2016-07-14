@@ -125,7 +125,7 @@ I truly think Seungwoo would be a strong asset for every company he work for.
 
 ## want more?
 > *resume on slideshare (Korean)*   
-[<img src="img/resume_ko.png" width="400px">](http://www.slideshare.net/SeungWooLee2/20130416)
+[<img src="img/resume_kr.png" width="400px">](http://www.slideshare.net/SeungWooLee2/20130416)
 
 > *resume on slideshare (Japanese)*  
 [<img src="img/resume_jp.png" width="400px">](http://www.slideshare.net/SeungWooLee2/20160410-60714482)
