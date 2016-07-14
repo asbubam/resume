@@ -1,5 +1,6 @@
 ## Seungwoo Lee
-> Hello. My name is Seungwoo Lee and I am a Software engineer.  
+> <img src="https://avatars3.githubusercontent.com/u/1094945" width="300px">  
+Hello. My name is Seungwoo Lee and I am a Software engineer.  
 I'm making **Crowdsourcing Translation Platform Service** at [**Flitto**](https://www.flitto.com) using Node.js now.
 
 ## contact
@@ -9,11 +10,10 @@ https://www.facebook.com/asbubam
 
 ## I love Node.js Programming.
 > *Speaker about "Node.js programming"*  
-> [**playnode 2015**](http://playnode.io)  
-> [**W3C HTML5 Conference 2015**](http://onoffmix.com/event/58200)  
+> @[**playnode 2015**](http://playnode.io)  
+> @[**W3C HTML5 Conference 2015**](http://onoffmix.com/event/58200)  
 
-> [![Node.js in Flitto](img/playnode_cover.png)](http://www.slideshare.net/SeungWooLee2/nodejs-in-flitto)
-
+> [<img src="img/playnode_cover.png" width="400px">](http://www.slideshare.net/SeungWooLee2/nodejs-in-flitto)
 
 ## Experience
 ##### Flitto (May 2013 – Present)
@@ -54,6 +54,7 @@ ETRI SmartTV
 ## Recommendations
 \- ***정아영 (전 Flitto PR Team)***
 > 버프소년!! 주변 사람들에게 힘을 불어넣고 버프를 주며 데미지는 줄여줍니다.  
+
 
 \- ***이혜원 (전 Flitto Design Team)***
 > 승우님은 제가 보아온 개발자분들 중에 가장 신나게 개발하시는 분이세요.  
@@ -123,14 +124,14 @@ I truly think Seungwoo would be a strong asset for every company he work for.
 > 언제나 믿을 수 있고 모두에게 에너지를 불어넣어주는 사람. 
 
 ## want more?
-> **resume on slideshare(Korean)**
-> [![resume on slideshare(Korean)](img/resume_en.png)](http://www.slideshare.net/SeungWooLee2/20130416)
+> *resume on slideshare (Korean)*   
+[<img src="img/resume_ko.png" width="400px">](http://www.slideshare.net/SeungWooLee2/20130416)
 
-> **resume on slideshare(Japanese)**
-> [![resume on slideshare(Japanese)](img/resume_jp.png)](http://www.slideshare.net/SeungWooLee2/20160410-60714482)
+> *resume on slideshare (Japanese)*  
+[<img src="img/resume_jp.png" width="400px">](http://www.slideshare.net/SeungWooLee2/20160410-60714482)
 
-> **Do you want work with me?**
-> [![Do you want work with me?](img/want_you.png)](http://www.slideshare.net/SeungWooLee2/wantyou)
+> *Do you want work with me?*  
+[<img src="img/want_you.png" width="400px">](http://www.slideshare.net/SeungWooLee2/wantyou)
 
 ## contact
 > [asbubam@gmail.com](asbubam@gmail.com)  
