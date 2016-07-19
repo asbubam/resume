@@ -4,7 +4,7 @@ Hello. My name is Seungwoo Lee and I am a Software engineer.
 I'm making **Crowdsourcing Translation Platform Service** at [**Flitto**](https://www.flitto.com) using Node.js.
 
 ## contact
-> [asbubam@gmail.com](asbubam@gmail.com)  
+> asbubam@gmail.com  
 https://www.facebook.com/asbubam
 
 
