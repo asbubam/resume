@@ -164,6 +164,9 @@ I truly think Seungwoo would be a strong asset for every company he work for.
 때로는 한 발짝 뒤로 물러서서 냉정하게 다른 시선으로 바라볼 줄 알며 더 좋은 제안들과 방향을 제시해주시는 승우님이십니다. 승우님과 같이 협업하는 그 자체가 저에겐 행운입니다.   
 끊임없는 열정과 패기를 가지신 승우님을 항상 응원합니다.  
 
+\- ***장종호 (Flitto CS/QA/Everything)***
+> 회사와 동료들의 꿈에 관심을 갖고 진심으로 응원해주는 사람. 승우님은 가끔 추상적이고 멀게만 느껴지는 '꿈'을 저의 코 앞에 현실감있게 가져다주셔서 온화한 말투에도 뜨끔뜨끔 놀라곤 합니다. 계속 함께한다면 꿈이 현실이 되고 현실을 넘어 꿈을 이룰 수 있을 것입니다. (덧붙여서 아마 당신의 퇴사 또한 누구보다 진심으로 응원해줄 그런 사람입니다.)
+
 ## want more?
 > *resume on slideshare (Korean)*   
 [<img src="img/resume_kr.png" width="400px">](http://www.slideshare.net/SeungWooLee2/20130416)
