@@ -30,7 +30,7 @@ Develop news1 iphone mobile app
 ##### UNUS (May 2011 – May 2012)
 > Develop [dingdong](http://www.dingdongmall.co.kr) API server  
 Develop Public Transportation API Server  
-*Structs2, Spring3, Oracle Database*  
+*Struts2, Spring3, Oracle Database*  
 
 ##### Asadal (December 2005 – November 2008 )
 > Develop Domain Registration (.com, .net, org, .kr ...) Server  
