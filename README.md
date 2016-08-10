@@ -15,6 +15,15 @@ https://www.facebook.com/asbubam
 
 > [<img src="img/playnode_cover.png" width="400px">](http://www.slideshare.net/SeungWooLee2/nodejs-in-flitto)
 
+## Skill Sets
+>###### Node.js, Ruby, Java, C
+###### PostgreSQL, MySQL, Oracle, MongoDB
+###### Redis, RabbitMQ
+###### Express, Rails
+###### Devops with Amazon AWS
+###### Vim, Git
+
+
 ## Experience
 ##### Flitto (May 2013 – Present)
 > Develop [Flitto](https://www.flitto.com) Web, API Server  
@@ -50,9 +59,6 @@ ETRI SmartTV
 ## Education
 > ##### Tokyo Visual Arts - Fashion Photography  
 ##### The Naganuma Tokyo Japanese School (東京日本語学校)
-
-## Skill Sets
-> ##### Node.js
 
 ## Recommendations
 \- ***정아영 (전 Flitto PR Team)***
