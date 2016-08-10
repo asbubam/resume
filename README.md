@@ -51,6 +51,9 @@ ETRI SmartTV
 > ##### Tokyo Visual Arts - Fashion Photography  
 ##### The Naganuma Tokyo Japanese School (東京日本語学校)
 
+## Skill Sets
+> ##### Node.js
+
 ## Recommendations
 \- ***정아영 (전 Flitto PR Team)***
 > 버프소년!! 주변 사람들에게 힘을 불어넣고 버프를 주며 데미지는 줄여줍니다.  
