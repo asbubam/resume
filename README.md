@@ -25,12 +25,15 @@ https://www.facebook.com/asbubam
 
 
 ## Experience
-##### Flitto (May 2013 – Present)
+##### Coupang (Nov 2016 - Present)
+> Working at Core Framework Platform Team
+
+##### Flitto (May 2013 – Oct 2016)
 > Develop [Flitto](https://www.flitto.com) Web, API Server  
 Develop B2B Mass Translation Service  
 *AWS, Node.js, PostgreSQL, Redis, MongoDB, RabbitMQ, Nginx*  
 
-##### News1 (May 2012 – May 2013 ) 
+##### News1 (May 2012 – May 2013) 
 > Develop [news1](http://www.news1.kr) Web, API Server  
 Develop news1 news desk on the web.  
 Develop news1 iphone mobile app  
