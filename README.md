@@ -1,7 +1,7 @@
 ## Seungwoo Lee
 > <img src="https://avatars3.githubusercontent.com/u/1094945" width="300px">  
 Hello. My name is Seungwoo Lee and I am a Software engineer.  
-I'm making **Crowdsourcing Translation Platform Service** at [**Flitto**](https://www.flitto.com) using Node.js.
+I'm working at [**Coupang**](https://www.coupang.com/)(Core Framework Platform Team) now.
 
 ## contact
 > asbubam@gmail.com  
