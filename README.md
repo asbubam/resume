@@ -5,6 +5,7 @@ I'm working at [**Coupang**](https://www.coupang.com/)(Core Framework Platform T
 
 ## contact
 > asbubam@gmail.com  
+https://blog.2dal.com
 https://www.facebook.com/asbubam
 
 
