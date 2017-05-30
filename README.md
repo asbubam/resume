@@ -26,7 +26,10 @@ https://www.facebook.com/asbubam
 
 
 ## Experience
-##### Coupang (Nov 2016 - Present)
+##### Smartstudy (May 2017 - Present)
+> Working at D9 Team
+
+##### Coupang (Nov 2016 - Apr 2017)
 > Working at Core Framework Platform Team
 
 ##### Flitto (May 2013 – Oct 2016)
