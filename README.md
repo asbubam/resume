@@ -31,6 +31,7 @@ https://www.facebook.com/asbubam
 
 ##### Coupang (Nov 2016 - Apr 2017)
 > Working at Core Framework Platform Team
+
 *AWS, Java, Memcached, Jenkins Batch Container*
 
 ##### Flitto (May 2013 – Oct 2016)
