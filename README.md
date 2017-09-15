@@ -1,7 +1,7 @@
 ## Seungwoo Lee
 > <img src="https://avatars3.githubusercontent.com/u/1094945" width="300px">  
 Hello. My name is Seungwoo Lee and I am a Software engineer.  
-I'm working at [**Coupang**](https://www.coupang.com/)(Core Framework Platform Team) now.
+I'm working at [**SMARTSTUDY**](http://www.smartstudy.co.kr/)(SRE Team) now.
 
 ## contact
 > asbubam@gmail.com  
@@ -26,8 +26,8 @@ https://www.facebook.com/asbubam
 
 
 ## Experience
-##### Smartstudy (May 2017 - Present)
-> Working at D9 Team
+##### SMARTSTUDY (May 2017 - Present)
+> Working at SRE Team
 
 ##### Coupang (Nov 2016 - Apr 2017)
 > Working at Core Framework Platform Team
