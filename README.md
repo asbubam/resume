@@ -29,11 +29,11 @@ https://www.facebook.com/asbubam
 ##### SMARTSTUDY (May 2017 - Present)
 > Working at SRE Team
 
-##### Coupang (Nov 2016 - Apr 2017)
-> Working at Core Framework Platform Team
-Develop Jenkins Batch Plugin
-Setup Jenkins Batch Container for Multiple Teams
-*AWS, Java, Memcached, Jenkins Batch Container*
+#### Coupang (Nov 2016 - Apr 2017)
+> Working at Core Framework Platform Team  
+Develop Jenkins Batch Plugin  
+Setup Jenkins Batch Container for Multiple Teams  
+*AWS, Java, Memcached, Jenkins*  
 
 ##### Flitto (May 2013 – Oct 2016)
 > Develop [Flitto](https://www.flitto.com) Web, API Server  
