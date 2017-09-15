@@ -30,7 +30,7 @@ https://www.facebook.com/asbubam
 > Working at SRE Team
 
 #### Coupang (Nov 2016 - Apr 2017)
-> Working at Core Framework Platform Team  
+> Worked at Core Framework Platform Team  
 Develop Jenkins Batch Plugin  
 Setup Jenkins Batch Container for Multiple Teams  
 *AWS, Java, Memcached, Jenkins*  
