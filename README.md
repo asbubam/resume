@@ -20,7 +20,7 @@ https://www.facebook.com/asbubam
 ###### PostgreSQL, MySQL, Oracle, MongoDB
 ###### Redis, RabbitMQ
 ###### Express, Rails
-###### Devops with Amazon AWS
+###### Amazon AWS, Docker, Terraform
 ###### Vim, Git
 
 
