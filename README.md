@@ -1,7 +1,6 @@
 ## Seungwoo Lee
 > <img src="https://avatars3.githubusercontent.com/u/1094945" width="300px">  
 Hello. My name is Seungwoo Lee and I am a Software engineer.  
-I'm working at [**SMARTSTUDY**](http://www.smartstudy.co.kr/)(SRE Team) now.
 
 ## contact
 > asbubam@gmail.com  
@@ -26,8 +25,11 @@ https://www.facebook.com/asbubam
 
 
 ## Experience
-##### SMARTSTUDY (May 2017 - Present)
-> Working at SRE Team
+##### SMARTSTUDY (May 2017 - Dec 2017)
+> Worked at SRE Team
+Develop graphQL API
+AWS Resource Terraforming
+Design AWS VPC Network
 
 #### Coupang (Nov 2016 - Apr 2017)
 > Worked at Core Framework Platform Team  
