@@ -26,10 +26,10 @@ https://www.facebook.com/asbubam
 
 ## Experience
 ##### SMARTSTUDY (May 2017 - Dec 2017)
-> Worked at SRE Team
-Develop graphQL API
-AWS Resource Terraforming
-Design AWS VPC Network
+> Worked at SRE Team  
+Develop graphQL API  
+AWS Resource Terraforming  
+Design AWS VPC Network  
 
 #### Coupang (Nov 2016 - Apr 2017)
 > Worked at Core Framework Platform Team  
