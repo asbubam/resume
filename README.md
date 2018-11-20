@@ -25,6 +25,12 @@ https://www.facebook.com/asbubam
 
 
 ## Experience
+##### Woowa.Bros. (Sep 2018 - )
+> Worked at SRE Team
+
+##### Coupang (Jan 2018 - Aug 2018)
+> Worked at Continuous Deployment Platform Team
+
 ##### SMARTSTUDY (May 2017 - Dec 2017)
 > Worked at SRE Team  
 Develop graphQL API  
