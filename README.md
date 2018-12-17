@@ -26,16 +26,19 @@ https://www.facebook.com/asbubam
 
 ## Experience
 ##### Woowa.Bros. (Sep 2018 - )
-> Worked at SRE Team
+> Working at SRE Team
 
 ##### Coupang (Jan 2018 - Aug 2018)
 > Worked at Continuous Deployment Platform Team
+Develop deployment platform
+*AWS, Java, Spring, Python*
 
 ##### SMARTSTUDY (May 2017 - Dec 2017)
 > Worked at SRE Team  
 Develop graphQL API  
 AWS Resource Terraforming  
 Design AWS VPC Network  
+*AWS, Terraform, Node.js*
 
 #### Coupang (Nov 2016 - Apr 2017)
 > Worked at Core Framework Platform Team  
