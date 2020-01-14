@@ -20,18 +20,21 @@ https://www.facebook.com/asbubam
 ###### PostgreSQL, MySQL, Oracle, MongoDB
 ###### Redis, RabbitMQ
 ###### Express, Rails
-###### Amazon AWS, Docker, Terraform
+###### Amazon AWS, Terraform, Docker, ECS, Kubernetes
 ###### Vim, Git
 
 
 ## Experience
 ##### Woowa.Bros. (Sep 2018 - )
-> Working at SRE Team
+> Working at Cloud Platform Development Team  
+Develop standard AMI creating automation using Packer, Ansible  
+Develop CI/CD platform support Blue/Green, Canary strategy  
+*AWS, Terraform, CodeDeploy, Jenkins Pipeline, Kubernetes, Kops*  
 
 ##### Coupang (Jan 2018 - Aug 2018)
-> Worked at Continuous Deployment Platform Team
-Develop deployment platform
-*AWS, Java, Spring, Python*
+> Worked at Continuous Deployment Platform Team  
+Develop deployment platform  
+*AWS, Java, Spring, Python*  
 
 ##### SMARTSTUDY (May 2017 - Dec 2017)
 > Worked at SRE Team  
