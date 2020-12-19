@@ -16,7 +16,7 @@ https://www.facebook.com/asbubam
 > [<img src="img/playnode_cover.png" width="400px">](http://www.slideshare.net/SeungWooLee2/nodejs-in-flitto)
 
 ## Skill Sets
->###### Node.js, Ruby, Java, C
+>###### Node.js, Go, Ruby, Java, C
 ###### PostgreSQL, MySQL, Oracle, MongoDB
 ###### Redis, RabbitMQ
 ###### Express, Rails
@@ -25,7 +25,10 @@ https://www.facebook.com/asbubam
 
 
 ## Experience
-##### Woowa.Bros. (Sep 2018 - )
+##### beNX (Apr 2020 - Now)
+> Working at DevSecOps Team  
+
+##### Woowa.Bros (Sep 2018 - Apr 2020)
 > Working at Cloud Platform Development Team  
 Develop standard AMI creating automation using Packer, Ansible  
 Develop CI/CD platform support Blue/Green, Canary strategy  
