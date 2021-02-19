@@ -212,17 +212,19 @@ I truly think Seungwoo would be a strong asset for every company he work for.
 > 저는 승우님과 같은 팀에서 그리고 바로 옆에서 같이 일해 본 행운아입니다. 그는 자신보다 동료를 더 생각하는 아주 인격적인 리더입니다. 승우님은 업무뿐만 아니라 팀원의 생활 전부를 존중하고 관심을 갖습니다. 또한 승우님은 주변 팀원들의 잠재력을 끌어올리는 리더입니다. 그와 함께 있을 때는 어떤 일을 진행하든 가능하다고 생각되어지고 자신감이 생기고 재밌어집니다. 이런 에너지가 일이 즐거워질 수 있도록 해줍니다. 마음 같아서는 항상 제 옆에 계셨으면 좋겠습니다. 만약 당신이 이런 승우님과 함께 일을 하고 있다면 정말 큰 행운을 갖고 계신 것이라고 말씀드리고 싶습니다. :)
  
 ## want more?
-> *resume on slideshare (Korean)*   
+* *resume on slideshare (Korean)*   
 [<img src="img/resume_kr.png" width="400px">](http://www.slideshare.net/SeungWooLee2/20130416)
 
-> *resume on slideshare (Japanese)*  
+* *resume on slideshare (Japanese)*  
 [<img src="img/resume_jp.png" width="400px">](http://www.slideshare.net/SeungWooLee2/20160410-60714482)
 
-> *Do you want work with me?*  
+* *Do you want work with me?*  
 [<img src="img/want_you.png" width="400px">](http://www.slideshare.net/SeungWooLee2/wantyou)
 
-> *Docker 101 - slides*  
+* *Docker 101 - slides*  
 [<img src="img/docker101.png" width="400px">](https://drive.google.com/file/d/1YFkrxL4qX2112li_2YXMUPfK5c9VrJRQ/view?fbclid=IwAR3JPK1zfO_0qRrswM1ACpeiDAtFIdHCz3JQLyz6-TXlh9hkhx2V3Tf_Cz4)
 
-> *Docker 101 - youtube video*  
+* *Docker 101 - youtube video*  
 [![Docker 알아보아요! - ep1](http://img.youtube.com/vi/g4kP5DOejZ4/0.jpg)](https://youtu.be/g4kP5DOejZ4?t=0s)  
+
+* *[Kubernetes Network & Cilium](https://www.notion.so/asbubam/Kubernetes-Network-Cilium-1d4371f562ea4acdb5e679e376a7c992)*
