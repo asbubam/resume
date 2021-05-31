@@ -25,11 +25,19 @@ https://www.facebook.com/asbubam
 
 
 ## Experience
-##### beNX (Apr 2020 - Now)
-> Working at DevSecOps Team  
+##### Daangn Market (Apr 2021 - Now)
+> Working at SRE Team 
+
+##### beNX (Apr 2020 - March 2021)
+> Worked at DevSecOps Team  
+Migration Logstash to AWS EKS  
+Develop Kubernetes Mutating Webhook for ECR Alias  
+Develop [klocust](https://github.com/DevopsArtFactory/klocust) - command-line tool for managing Locust distributed load testing on Kubernetes  
+Tunning AWS Lambda for Mnet I-LAND broadcast voting service traffic with [klocust](https://github.com/DevopsArtFactory/klocust)  
+*AWS, Terraform, Kubernetes, Go*
 
 ##### Woowa.Bros (Sep 2018 - Apr 2020)
-> Working at Cloud Platform Development Team  
+> Worked at Cloud Platform Development Team  
 Develop standard AMI creating automation using Packer, Ansible  
 Develop CI/CD platform support Blue/Green, Canary strategy  
 *AWS, Terraform, CodeDeploy, Jenkins Pipeline, Kubernetes, Kops*  
