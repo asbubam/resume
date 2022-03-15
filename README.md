@@ -18,9 +18,10 @@ https://www.facebook.com/asbubam
 ## Skill Sets
 >###### Node.js, Go, Ruby, Java, C
 ###### PostgreSQL, MySQL, Oracle, MongoDB
-###### Redis, RabbitMQ
+###### Redis, Memcached, Kafka, RabbitMQ
+###### ELK stack
 ###### Express, Rails
-###### Amazon AWS, Terraform, Docker, ECS, Kubernetes
+###### Amazon AWS, Terraform, Docker, ECS, EKS, Kubernetes
 ###### Vim, Git
 
 
