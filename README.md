@@ -237,3 +237,6 @@ I truly think Seungwoo would be a strong asset for every company he work for.
 [![Docker 알아보아요! - ep1](http://img.youtube.com/vi/g4kP5DOejZ4/0.jpg)](https://youtu.be/g4kP5DOejZ4?t=0s)  
 
 * *[Kubernetes Network & Cilium](https://www.notion.so/asbubam/Kubernetes-Network-Cilium-1d4371f562ea4acdb5e679e376a7c992)*
+
+* *[빠르고 정확하게 답변을 받을 수 있는 질문하는 법](https://blog.2dal.com/2020/04/01/%eb%b9%a0%eb%a5%b4%ea%b3%a0-%ec%a0%95%ed%99%95%ed%95%98%ea%b2%8c-%eb%8b%b5%eb%b3%80%ec%9d%84-%eb%b0%9b%ec%9d%84-%ec%88%98-%ec%9e%88%eb%8a%94-%ec%a7%88%eb%ac%b8%ed%95%98%eb%8a%94-%eb%b2%95/)*
+
