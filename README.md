@@ -5,7 +5,7 @@ Hello. My name is Seungwoo Lee and I am a Software engineer.
 ## contact
 > asbubam@gmail.com  
 https://blog.2dal.com  
-https://www.facebook.com/asbubam
+https://twitter.com/asbubam
 
 
 ## I love Node.js Programming.
