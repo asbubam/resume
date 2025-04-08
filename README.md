@@ -243,7 +243,11 @@ I truly think Seungwoo would be a strong asset for every company he work for.
 [<img src="img/docker101.png" width="400px">](https://drive.google.com/file/d/1YFkrxL4qX2112li_2YXMUPfK5c9VrJRQ/view?fbclid=IwAR3JPK1zfO_0qRrswM1ACpeiDAtFIdHCz3JQLyz6-TXlh9hkhx2V3Tf_Cz4)
 
 * *Docker 101 - youtube video*  
-[![Docker 알아보아요! - ep1](http://img.youtube.com/vi/g4kP5DOejZ4/0.jpg)](https://youtu.be/g4kP5DOejZ4?t=0s)  
+[![Docker 알아보아요! - ep1](http://img.youtube.com/vi/g4kP5DOejZ4/0.jpg)](https://youtu.be/g4kP5DOejZ4?t=0s)
+
+* *내가 만난 멋진 SRE - slides*  
+[<img width="400px" alt="Screenshot 2025-04-08 at 4 27 29 PM" src="https://github.com/user-attachments/assets/3b3ddc53-f807-4418-8617-ac1c403d3f61" />](https://docs.google.com/presentation/d/11hP7K2tJIEEhajil_OsZ_S5f8J8P9vBYOhBWzP0S9hw/edit?usp=sharing)
+
 
 * *[Kubernetes Network & Cilium](https://www.notion.so/asbubam/Kubernetes-Network-Cilium-1d4371f562ea4acdb5e679e376a7c992)*
 
