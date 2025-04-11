@@ -16,7 +16,7 @@ https://twitter.com/asbubam
 > [<img src="img/playnode_cover.png" width="400px">](http://www.slideshare.net/SeungWooLee2/nodejs-in-flitto)
 
 ## Skill Sets
->###### Node.js, Go, Ruby, Java, C
+>###### Node.js, Go, Ruby, Java, C, Python
 ###### PostgreSQL, MySQL, Oracle, MongoDB
 ###### Redis, Memcached, Kafka, RabbitMQ
 ###### ELK stack
