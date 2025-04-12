@@ -33,7 +33,7 @@ members after serving as a leader for a year,
 and later transitioned back to an Individual Contributor (IC) role to focus on problem-solving.  
 * Improved AWS cloud environment by integrating AWS SSO with Okta authentication and
 supporting new platforms such as MWAA (Airflow) and Imply.  
-* Developed an automation project for self-operable AWS cloud resource creation and
+* Developed an automation project for user-operable AWS cloud resource creation and
 management.  
 * Managed and operated AWS VPC networks and all related cloud resources.  
 * Led cloud infrastructure hardening efforts to achieve ISMP and ISMS-P compliance.  
