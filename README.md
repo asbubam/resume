@@ -286,6 +286,9 @@ I truly think Seungwoo would be a strong asset for every company he work for.
 * *Docker 101 - youtube video*  
 [![Docker 알아보아요! - ep1](http://img.youtube.com/vi/g4kP5DOejZ4/0.jpg)](https://youtu.be/g4kP5DOejZ4?t=0s)
 
+* *내가 만약 처음부터 인프라를 구성한다면*  
+[<img width="400px" alt="Screenshot 2025-04-16 at 10 41 22 AM" src="https://github.com/user-attachments/assets/5e4a5610-0748-48a1-abd2-25843416aaf7" />](https://mysetting.io/slides/if-i-will-setup-infra-from-first)
+
 * *내가 만난 멋진 SRE - slides*  
 [<img width="400px" alt="Screenshot 2025-04-08 at 4 27 29 PM" src="https://github.com/user-attachments/assets/3b3ddc53-f807-4418-8617-ac1c403d3f61" />](https://docs.google.com/presentation/d/11hP7K2tJIEEhajil_OsZ_S5f8J8P9vBYOhBWzP0S9hw/edit?usp=sharing)
 
