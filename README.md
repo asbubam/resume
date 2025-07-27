@@ -26,6 +26,11 @@ https://twitter.com/asbubam
 
 
 ## Experience
+#### SecondB - AI-Powered YouTube Content Summarizer (Mar 2025 - ) 
+> Personal side project created for learning LLM purposes
+* [SecondB](https://secondb.ai)  
+*Railway, Supabase, Cloudflare, Python, FastAPI, TypeScript*  
+
 ##### Daangn Market (Apr 2021 - Mar 2025)
 > Worked at SRE Team.  
 * Joined as the second member of the cloud part within SRE, expanded the team to six
