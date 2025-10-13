@@ -70,7 +70,7 @@ AWS Resource Terraforming
 Design AWS VPC Network  
 *AWS, Terraform, Node.js*
 
-#### Coupang (Nov 2016 - Apr 2017)
+##### Coupang (Nov 2016 - Apr 2017)
 > Worked at Core Framework Platform Team  
 Develop Jenkins Batch Plugin  
 Setup Jenkins Batch Container for Multiple Teams  
