@@ -41,7 +41,7 @@ supporting new platforms such as MWAA (Airflow) and Imply.
 * Developed an automation project for user-operable AWS cloud resource creation and
 management.  
 * Managed and operated AWS VPC networks and all related cloud resources.  
-* Led cloud infrastructure hardening efforts to achieve ISMP and ISMS-P compliance.  
+* Led cloud infrastructure hardening efforts to achieve ISMS and ISMS-P compliance.  
 *AWS, Terraform, Kubernetes, Node.js, Python*
 
 ##### beNX (Apr 2020 - March 2021)
