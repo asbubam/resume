@@ -31,7 +31,7 @@ https://twitter.com/asbubam
 * [SecondB](https://secondb.ai)  
 *Railway, Supabase, Cloudflare, Python, FastAPI, TypeScript*  
 
-##### Daangn Market (Apr 2021 - Mar 2025)
+##### Daangn Market (Apr 2021 - Mar 2025, Jan 2026 - )
 > Worked at SRE Team.  
 * Joined as the second member of the cloud part within SRE, expanded the team to six
 members after serving as a leader for a year,  
