@@ -282,6 +282,16 @@ I truly think Seungwoo would be a strong asset for every company he work for.
 제가 어느 조직에서 일하건 asbubam이 곁에 있다면 정말 든든할 거예요.
 벌써부터 asbubam과 같이 일할 분들이 부러워지네요.
 
+\-***김민주(당근 SRE)***
+> 후랭크 같은 동료(이자 선배)를 만난 건 행운이었어요!
+>
+> 처음 만났을 때, 따뜻한 사람이구나- 생각했던 것만큼, 함께 일할 때도 너무 따스했어요.
+>
+> - 다방면에 지식이 깊지만, 겸손하고 친절하게 지식을 전파해줘요.
+> - 상대방 의견을 존중해주고, 놓치기 쉬운 부분도 잘 알려줘서 또 협업하고 싶은 동료예요!
+> - 회사에서 모두가 후랭크를 좋아한다고 생각했어요. 그것만 봐도 얼마나 좋은 사람인지 알 수 있었어요.
+> - "좋은 어른"의 표본 같은 사람이라고 생각해요. 좋은 시니어 엔지니어와 함께 일할 수 있어서 참 좋았습니다.
+
 ## want more?
 * *resume on slideshare (Korean)*   
 [<img src="img/resume_kr.png" width="400px">](http://www.slideshare.net/SeungWooLee2/20130416)
